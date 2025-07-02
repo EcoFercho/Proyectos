@@ -9,5 +9,6 @@ console.log(datos);
 
 // Concatenacion con backtick
 console.log(`Mi nombre es ${name} y mi edad es ${age}`);
+console.log(`Mi nombrees ${name} y el apellido del eestudiante es ${age}`);
 console.log(typeof name);
 console.log(typeof age);

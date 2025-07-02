@@ -3,7 +3,7 @@ let variable = "hola"
 console.log(variable)
 console.log(typeof variable)
 
-//variables -> const no se puede reasignar
+//variables -> contasnte o const no se puede reasignar
 const varConstante = "valor de PI";
 console.log(varConstante);
 console.log(typeof varConstante);

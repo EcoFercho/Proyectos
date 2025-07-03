@@ -2,7 +2,7 @@
 
 const url = "https://microservice-estudiante.onrender.com/";
 
-fetch(url + "api/estudiantes/10")
+fetch(url + "api/estudiantes")
 .then((resultado) => {
     return resultado.json()})
 .then((data) => {
